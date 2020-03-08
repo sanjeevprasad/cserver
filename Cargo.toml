@@ -1,0 +1,11 @@
+[package]
+name = "cserver"
+version = "0.1.0"
+authors = ["Sanjeev Prasad <sanjeev@localhost>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nix  = "0.17.0"
+futures = "0.3.4"
